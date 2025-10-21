@@ -1,0 +1,7 @@
+---
+BasedOnStyle: LLVM
+UseTab: Never       # This is the key change: never use tabs for indentation.
+IndentWidth: 4      # The number of spaces for one indentation level.
+TabWidth: 4         # Sets the visual width of any existing tab characters.
+ColumnLimit: 150
+---
